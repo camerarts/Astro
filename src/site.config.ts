@@ -39,7 +39,7 @@ export const menuLinks: { path: string; title: string }[] = [
 		title: "博客",
 	},
   	{
-		path: "/posts/",
+		path: "/youtube/",
 		title: "油管视频",
 	},
   
